@@ -1,0 +1,4 @@
+plato,precio
+Hamburguesa,15
+Pizza,12
+Pasta,14
